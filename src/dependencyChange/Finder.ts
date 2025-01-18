@@ -1,4 +1,4 @@
-import { UserRepository } from './UserRepository'
+import type { UserRepository } from './UserRepository'
 
 export class Finder {
   // eslint-disable-next-line no-useless-constructor

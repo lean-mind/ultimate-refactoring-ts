@@ -1,5 +1,5 @@
 export class ShoppingCart {
-  private price: number = 0
+  private price = 0
 
   add (price: number) {
     this.price = price
