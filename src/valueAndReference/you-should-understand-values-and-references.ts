@@ -1,7 +1,7 @@
 import { SomeType } from './some-type'
 
-describe('Yuou should understand values and references', () => {
-  it('because it\'s fundamental', () => {
+describe('You should understand values and references', () => {
+  it('because it is fundamental', () => {
     const instance = new SomeType()
 
     const arg1 = 'bar'
