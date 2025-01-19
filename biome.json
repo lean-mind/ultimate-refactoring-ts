@@ -20,7 +20,8 @@
     "enabled": true,
     "rules": {
       "recommended": true
-    }
+    },
+    "ignore": ["src/koans/koans.test.js"]
   },
   "javascript": {
     "formatter": {
