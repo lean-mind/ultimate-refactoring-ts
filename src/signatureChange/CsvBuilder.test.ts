@@ -1,4 +1,5 @@
 import { CsvBuilder } from './CsvBuilder'
+import { describe, expect, it } from 'vitest'
 
 describe('CsvBuilder should', () => {
   const builder = new CsvBuilder()

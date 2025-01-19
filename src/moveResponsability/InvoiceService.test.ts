@@ -1,4 +1,5 @@
 import { InvoiceService } from './InvoiceService'
+import { describe, expect, it } from 'vitest'
 
 describe('InvoiceService should', () => {
   it('calculate net amount', () => {

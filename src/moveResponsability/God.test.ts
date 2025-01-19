@@ -1,4 +1,5 @@
 import { God } from './God'
+import { describe, expect, it } from 'vitest'
 
 describe('God should', () => {
   it('add numbers', () => {

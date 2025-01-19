@@ -1,4 +1,5 @@
 import { AuthenticationService } from './AuthenticationService'
+import { describe, expect, it } from 'vitest'
 
 describe('AuthenticationService should', () => {
   it('distinguish administrator role', () => {

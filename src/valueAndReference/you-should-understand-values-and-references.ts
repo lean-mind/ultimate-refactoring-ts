@@ -1,4 +1,5 @@
 import { SomeType } from './some-type'
+import { describe, expect, it } from 'vitest'
 
 describe('You should understand values and references', () => {
   it('because it is fundamental', () => {

@@ -1,4 +1,5 @@
 import { ShoppingCart } from './ShoppingCart'
+import { describe, expect, it } from 'vitest'
 
 describe('Shopping Cart should', () => {
   it('counts number of products', () => {

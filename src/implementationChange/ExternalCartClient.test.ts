@@ -1,4 +1,5 @@
 import { ExternalCartClient } from './ExternalCartClient'
+import { describe, expect, it } from 'vitest'
 
 describe('ExternalCartClient should', () => {
   it('format total price message', () => {
